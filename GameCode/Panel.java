@@ -1,5 +1,5 @@
 package GameCode;
 
-public class Panel.java{
+public class Panel{
     
 }
