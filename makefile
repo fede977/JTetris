@@ -9,3 +9,6 @@ gameclean:
 	cd GameCode;
 	rm $(RM_FLAGS) *.class *~;
 	cd ${HOME_FOLDER}
+
+run:
+	java GameCode/Panel
